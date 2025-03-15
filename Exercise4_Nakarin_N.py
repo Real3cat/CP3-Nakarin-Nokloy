@@ -1,1 +1,5 @@
-
+print("-"*20,"Your Score","-"*20)
+print("Foundation English","             ",4*0.75 , "Score")
+print("General Business","               ",4*0.75 , "Score")
+print("Introduction to Computer Systems",4*0.75 , "Score")
+print("Computer Programming","           ",4*0.75 , "Score")
